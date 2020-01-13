@@ -1,4 +1,4 @@
-# Flutter Get_It Memory Comsumption Test
+# Flutter Get_It Memory Consumption Test
 
 I'm considering switching to Get_It from Provider as my default object provider.
 
