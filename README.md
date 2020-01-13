@@ -18,7 +18,7 @@ By running Flutter in "profile" mode, from Dart DevTools, I got the following re
 
 ## Provider: ^4.0.1
 
-Code: [carnevalli/flutter-provider-memory-consumption-test] (https://github.com/carnevalli/flutter-provider-memory-consumption-test)
+Code: [carnevalli/flutter-provider-memory-consumption-test](https://github.com/carnevalli/flutter-provider-memory-consumption-test)
 
 In order to allow multiple singletons, Provider uses two objects, so, for each test, consider the results of "Provider" + "Multiprovider".
 
